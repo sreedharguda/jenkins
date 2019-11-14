@@ -1,4 +1,4 @@
 import time
 print("Hello World")
-time.sleept(3) 
+time.sleep(3) 
 print("Hello Jenkins")
